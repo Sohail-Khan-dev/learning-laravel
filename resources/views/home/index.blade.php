@@ -14,41 +14,41 @@
     <aside class="navbar navbar-vertical navbar-expand-sm navbar-dark">
         <div class="container-fluid">
             <h1 class="navbar-brand navbar-brand-autodark">
-                <a href="records">
+                <a href="/">
                     <img src="/images/accessible.png" width="80" height="80" alt="Tabler" class="navbar-brand-image">
                 </a>
             </h1>
             <div class="collapse navbar-collapse" id="sidebar-menu">
-{{--                <ul class="navbar-nav pt-lg-3">--}}
-{{--                    <li class="nav-item">--}}
-{{--                        <a class="nav-link" href="/">--}}
-{{--                          <span class="nav-link-title">--}}
-{{--                            Home--}}
-{{--                          </span>--}}
-{{--                        </a>--}}
-{{--                    </li>--}}
-{{--                    <li class="nav-item">--}}
-{{--                        <a class="nav-link" href="#">--}}
-{{--                          <span class="nav-link-title">--}}
-{{--                            Link 1--}}
-{{--                          </span>--}}
-{{--                        </a>--}}
-{{--                    </li>--}}
-{{--                    <li class="nav-item">--}}
-{{--                        <a class="nav-link" href="#">--}}
-{{--              <span class="nav-link-title">--}}
-{{--                Link 2--}}
-{{--              </span>--}}
-{{--                        </a>--}}
-{{--                    </li>--}}
-{{--                    <li class="nav-item">--}}
-{{--                        <a class="nav-link" href="#">--}}
-{{--              <span class="nav-link-title">--}}
-{{--                Link 3--}}
-{{--              </span>--}}
-{{--                        </a>--}}
-{{--                    </li>--}}
-{{--                </ul>--}}
+                <ul class="navbar-nav pt-lg-3 px-6  ">
+                    <li class="nav-item">
+                        <a class="nav-link" href="/">
+                          <span class="nav-link-title">
+                            Home
+                          </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+                          <span class="nav-link-title">
+                            Link 1
+                          </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+              <span class="nav-link-title">
+                Link 2
+              </span>
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">
+              <span class="nav-link-title">
+                Link 3
+              </span>
+                        </a>
+                    </li>
+                </ul>
                     <h2 style="margin-left: 10px">Same Records Manged with 2 Different Ways</h2>
                 <li style="margin-left: 10px; font-size: 25px"> <b><u>Livewire </u></b></li>
                 <li style="margin-left: 10px; font-size:25px"> <b>Laravel</b> </li>

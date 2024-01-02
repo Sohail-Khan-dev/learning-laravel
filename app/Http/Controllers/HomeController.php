@@ -18,8 +18,6 @@ class HomeController extends Controller
 
     // Resource Controller
     public function index(){
-//        return "Hellow Wrold ";
-//        echo "Index is Called ";
         $blogs = Blog::all();
         return view('home.index',compact('blogs'));
     }
